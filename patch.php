@@ -1,3 +1,3 @@
 <?php
-echo "patch";
+echo "patch2";
 ?>
