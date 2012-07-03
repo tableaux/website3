@@ -4,5 +4,5 @@ echo "website 3 update 6 van erik";
 echo "test";
 echo "testbranch";
 echo "hotfix3";
-    phpinfo();
+//    phpinfo();
 ?>
